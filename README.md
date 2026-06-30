@@ -53,6 +53,35 @@ This project automates the process by leveraging **Natural Language Processing (
 - `google.colab`, `joblib`, `json`, `os` → file handling and saving models  
 
 ---
+Workflow-
+Resume
+      ↓
+
+Text Cleaning
+      ↓
+
+TF-IDF
+      ↓
+
+XGBoost Model
+      ↓
+
+Predicted Job Role
+      ↓
+
+Experience Analysis
+      ↓
+
+Skill Extraction
+      ↓
+
+Skill Gap Analysis
+      ↓
+
+Resume Quality Score
+      ↓
+
+Candidate Fit Report
 
 ## 🧩 Installation
 
