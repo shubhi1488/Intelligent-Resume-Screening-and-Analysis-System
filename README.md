@@ -1,4 +1,3 @@
-Google Colab link: https://colab.research.google.com/drive/1xx099uX_EKTj456hWSASAoQfX89ZlQP6?usp=sharing
 # 🧠 AI-Based Resume Screening for Job Roles
 
 A **machine learning–powered intelligent system** for automated resume screening, classification, and skill assessment.  
