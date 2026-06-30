@@ -1,0 +1,43 @@
+{
+    "programming": [
+        "python",
+        "java",
+        "c++",
+        "c#",
+        "javascript",
+        "typescript"
+    ],
+    "web": [
+        "html",
+        "css",
+        "react",
+        "node",
+        "angular",
+        "django",
+        "flask"
+    ],
+    "data_science": [
+        "machine learning",
+        "deep learning",
+        "pytorch",
+        "tensorflow",
+        "numpy",
+        "pandas",
+        "scikit-learn"
+    ],
+    "cloud": [
+        "aws",
+        "azure",
+        "gcp",
+        "docker",
+        "kubernetes",
+        "terraform"
+    ],
+    "database": [
+        "sql",
+        "mysql",
+        "mongodb",
+        "postgresql",
+        "redis"
+    ]
+}
